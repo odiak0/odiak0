@@ -1,3 +1,3 @@
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=odiak0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=odiak0&theme=dark&hide_border=false)<br/>
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=odiak0&show_icons=true&theme=tokyonight" />
+</a></p>
